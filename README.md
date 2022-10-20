@@ -1,6 +1,6 @@
 <div>
 
-Hello! I`m [Pedro Alves](https://pedroalvesf.github.io/pedroalves/)!
+Hello! I`m [Pedro Alves](https://pedroalvesf.github.io/pedroalvesf/)!
 
 I`m a Full Stack Developer studant on Trybe! 
 
