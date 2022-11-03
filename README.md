@@ -31,7 +31,8 @@ Here you will find some of my projects and developments throught the course deve
 </div>
 
 ##
-
+Here are some of the projects that were developed within the course: 
+ https://github.com/pedroalvesf/trybe-projects.git
 <details> Git commands used!
 
   - Most used commands:
