@@ -4,12 +4,10 @@ Hello! I`m [Pedro Alves](https://pedroalvesf.github.io/pedroalvesf/)!
 
 I`m a Full Stack Developer by Trybe! 
 
-We are learning to use technologies such as JavaScript, TypeScript, NodeJs, React, Java, Spring Boot and much more! 
+I`ve learned to use technologies such as JavaScript, TypeScript, NodeJs, React, Java, Spring Boot and much more! 
 
 Here you will find some of my projects and developments throught my development! 
   
-Here are some of the projects that were developed: 
-https://github.com/pedroalvesf/trybe-projects.git
 ##
 </div>
 
